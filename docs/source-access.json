@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://korea-guide-airport.sunger89.chatgpt.site/?area=myeongdong&route=6015&stop=myeongdong&terminal=t1",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=47",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://www.airportlimousine.co.kr/en/sub/sub01.php?cat_no=6",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://www.airportrailroad.com/train/normal/fare",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "url": "https://www.seoulairbus.com/bus/6009",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  }
+]
